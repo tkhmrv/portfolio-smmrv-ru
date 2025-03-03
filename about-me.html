@@ -399,7 +399,7 @@
                     display: grid;
                     position: relative;
                     grid-area: 1/1/-1/-1;
-                    grid-template-rows: repeat(27, minmax(24px, auto));
+                    grid-template-rows: repeat(28, minmax(24px, auto));
                     grid-template-columns:
                       minmax(var(--grid-gutter), 1fr) repeat(8, minmax(0, var(--cell-max-width))) minmax(var(--grid-gutter), 1fr);
                     row-gap: 11.0px;
@@ -487,8 +487,39 @@
                     }
                   }
 
+                  .fe-block-newtext {
+                    grid-area: 11/2/12/10;
+                    z-index: 2;
+
+                    @media (max-width: 767px) {}
+                  }
+
+                  .fe-block-newtext .sqs-block {
+                    justify-content: flex-start;
+                  }
+
+                  .fe-block-newtext .sqs-block-alignment-wrapper {
+                    align-items: flex-start;
+                  }
+
+                  @media (min-width: 768px) {
+                    .fe-block-newtext {
+                      grid-area:11/2/13/13;
+                      z-index: 2;
+
+                    }
+
+                    .fe-block-newtext .sqs-block {
+                      justify-content: flex-start;
+                    }
+
+                    .fe-block-newtext .sqs-block-alignment-wrapper {
+                      align-items: flex-start;
+                    }
+                  }
+
                   .fe-block-ca8eb780b123549f4694 {
-                    grid-area: 11/2/13/10;
+                    grid-area: 13/2/15/10;
                     z-index: 2;
 
                     @media (max-width: 767px) {}
@@ -519,7 +550,7 @@
                   }
 
                   .fe-block-308589ee42a9d3884262 {
-                    grid-area: 13/2/27/10;
+                    grid-area: 15/2/29/10;
                     z-index: 3;
 
                     @media (max-width: 767px) {}
@@ -573,6 +604,20 @@
                       </div>
                     </div>
                   </div>
+
+                  <div class="fe-block fe-block-newtext">
+                    <div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{" topleft":{"unit":"px","value":0.0},"topright":{"unit":"px","value":0.0},"bottomleft":{"unit":"px","value":0.0},"bottomright":{"unit":"px","value":0.0}}"="" id="block-newtext">
+                      <div class="sqs-block-content">
+
+                        <div class="sqs-html-content">
+                          <p class="sqsrte-large" style="white-space:pre-wrap;"><a href="https://t.me/smmrv" target="_blank">Телеграм</a>, <a href="https://smmrv.ru/" target="_blank">Cайт-визитка</a></p>
+
+                        </div>
+
+                      </div>
+                    </div>
+                  </div>
+
                   <div class="fe-block fe-block-ca8eb780b123549f4694">
                     <div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{" topleft":{"unit":"px","value":0.0},"topright":{"unit":"px","value":0.0},"bottomleft":{"unit":"px","value":0.0},"bottomright":{"unit":"px","value":0.0}}"="" id="block-ca8eb780b123549f4694">
                       <div class="sqs-block-content">
