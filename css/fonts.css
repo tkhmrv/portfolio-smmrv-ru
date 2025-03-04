@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Minion Pro Cond Italic Display';
+    src: url('/fonts/Minion-Pro-Cond-Italic-Display.woff2') format('woff2'),
+         url('/fonts/Minion-Pro-Cond-Italic-Display.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+  }
+
+  @font-face {
+    font-family: 'Minion Pro Cond Display';
+    src: url('/fonts/Minion-Pro-Cond-Display.woff2') format('woff2'),
+         url('/fonts/Minion-Pro-Cond-Display.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Minion Pro Medium Cond Italic Display';
+    src: url('/fonts/Minion-Pro-Medium-Cond-Italic-Display.woff2') format('woff2'),
+         url('/fonts/Minion-Pro-Medium-Cond-Italic-Display.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+  }
