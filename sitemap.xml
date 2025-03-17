@@ -5,71 +5,80 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-
 <url>
   <loc>https://portfolio.smmrv.ru/</loc>
-  <lastmod>2025-03-03T17:52:51+00:00</lastmod>
+  <lastmod>2025-03-17T13:11:46+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://portfolio.smmrv.ru/about-me</loc>
-  <lastmod>2025-03-03T17:52:51+00:00</lastmod>
-  <priority>0.90</priority>
+  <lastmod>2025-03-17T13:11:46+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://portfolio.smmrv.ru/photography</loc>
-  <lastmod>2025-03-03T17:52:51+00:00</lastmod>
-  <priority>0.90</priority>
+  <lastmod>2025-03-17T13:11:46+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://portfolio.smmrv.ru/web-design</loc>
-  <lastmod>2025-03-03T17:52:51+00:00</lastmod>
-  <priority>0.90</priority>
+  <lastmod>2025-03-17T13:11:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://portfolio.smmrv.ru/discuss-project</loc>
+  <lastmod>2025-03-17T13:11:46+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://portfolio.smmrv.ru/photography/portraits</loc>
-  <lastmod>2025-03-03T17:52:51+00:00</lastmod>
+  <lastmod>2025-03-17T13:11:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://portfolio.smmrv.ru/photography/film</loc>
-  <lastmod>2025-03-03T17:52:51+00:00</lastmod>
+  <lastmod>2025-03-17T13:11:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://portfolio.smmrv.ru/web-design/cappadocia-festival</loc>
-  <lastmod>2025-03-03T17:52:51+00:00</lastmod>
+  <lastmod>2025-03-17T13:11:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://portfolio.smmrv.ru/web-design/the-green-space</loc>
-  <lastmod>2025-03-03T17:52:51+00:00</lastmod>
+  <lastmod>2025-03-17T13:11:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://portfolio.smmrv.ru/web-design/best-car-spb</loc>
+  <lastmod>2025-03-17T13:11:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://portfolio.smmrv.ru/web-design/equator</loc>
+  <lastmod>2025-03-17T13:11:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://portfolio.smmrv.ru/web-design/north-point-golf-club</loc>
+  <lastmod>2025-03-17T13:11:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://portfolio.smmrv.ru/photography/sky-observations-project</loc>
-  <lastmod>2025-03-03T17:52:51+00:00</lastmod>
-  <priority>0.70</priority>
+  <lastmod>2025-03-17T13:11:46+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://portfolio.smmrv.ru/photography/flashing-rays-project</loc>
-  <lastmod>2025-03-03T17:52:51+00:00</lastmod>
-  <priority>0.70</priority>
-</url>
-<url>
-  <loc>https://portfolio.smmrv.ru/web-design/north-point-golf-club</loc>
-  <lastmod>2025-03-03T17:52:51+00:00</lastmod>
-  <priority>0.70</priority>
+  <lastmod>2025-03-17T13:11:46+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://portfolio.smmrv.ru/web-design/lumiere-d-or</loc>
-  <lastmod>2025-03-03T17:52:51+00:00</lastmod>
-  <priority>0.70</priority>
-</url>
-<url>
-  <loc>https://portfolio.smmrv.ru/web-design/equator</loc>
-  <lastmod>2025-03-03T17:52:51+00:00</lastmod>
-  <priority>0.70</priority>
+  <lastmod>2025-03-17T13:11:46+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
