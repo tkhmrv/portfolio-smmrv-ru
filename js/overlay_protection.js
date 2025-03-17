@@ -3,4 +3,3 @@ document.querySelectorAll('.fluidImageOverlay').forEach(function(element) {
       e.preventDefault();
     });
   });
-  
